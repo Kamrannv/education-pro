@@ -4356,13 +4356,11 @@ p.form-message.success, p.form-message.error {
 ======================================================*/
 
 .signup-content {
-    background: #fff;
     border-radius: 10px;
     padding: 50px 55px;
     margin: 0 50px;
 }
 .signup-contet {
-    background: #fff;
     border-radius: 10px;
     padding: 5px 39px;
     margin: 0 50px;
